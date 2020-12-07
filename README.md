@@ -1,5 +1,6 @@
 # Airbnb-Data-Analysis
 
+Members: Jing Wang (jw5665), Zhirui Liang (zl3364)
 Our dataset: reviews_detail(1050548x6), listings_detailed(50041X96), rolling_sales(82145x20)
 
 ## [Data Cleaning](https://github.com/littlesun0727/Airbnb-Data-Analysis/blob/main/Data%20cleaning/Visualization.ipynb)
